@@ -1,0 +1,9 @@
+# ignore executable
+assignment1
+
+# ignore object files
+*.o
+
+assignment1.dSYM/
+
+.vscode/
